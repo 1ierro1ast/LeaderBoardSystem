@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using _Internal.LeaderBoardSystem.Demo;
+using LeaderBoardSystem.Example.Code;
 using UnityEngine;
 
-namespace _Internal.LeaderBoardSystem
+namespace LeaderBoardSystem.CodeBase
 {
     public class LeaderBoard : MonoBehaviour
     {

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace _Internal.LeaderBoardSystem
+namespace LeaderBoardSystem.CodeBase
 {
     public interface IObservableUnit
     {

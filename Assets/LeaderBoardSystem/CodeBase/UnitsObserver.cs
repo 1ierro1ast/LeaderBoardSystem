@@ -1,11 +1,11 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using _Internal.LeaderBoardSystem.Demo;
+using LeaderBoardSystem.Example.Code;
 using UnityEngine;
 
-namespace _Internal.LeaderBoardSystem
+namespace LeaderBoardSystem.CodeBase
 {
-    public class UnitsObserver : MonoBehaviour
+    public class UnitsObserver : MonoBehaviour, IUnitsObserver
     {
         [SerializeField] private List<TestPlayer> _testPlayers;
         [SerializeField] private LeaderBoard _leaderBoard;

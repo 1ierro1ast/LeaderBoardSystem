@@ -1,6 +1,7 @@
-﻿using UnityEngine;
+﻿using LeaderBoardSystem.CodeBase;
+using UnityEngine;
 
-namespace _Internal.LeaderBoardSystem.Demo
+namespace LeaderBoardSystem.Example.Code
 {
     public class TestPlayer : MonoBehaviour, IObservableUnit
     {

@@ -4,7 +4,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace _Internal.LeaderBoardSystem
+namespace LeaderBoardSystem.CodeBase
 {
     public class PositionPanel : MonoBehaviour
     {
